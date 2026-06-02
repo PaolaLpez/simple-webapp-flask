@@ -163,3 +163,19 @@ RF-08 El sistema deberá permitir el despliegue mediante contenedores Docker.
 RF-09 El sistema deberá permitir el mantenimiento y actualización del código mediante Git y GitHub.
 
 RF-10 El sistema deberá proporcionar una estructura modular que facilite la incorporación de nuevas funcionalidades.
+
+## Team Members
+
+| Nombre                     | Rol            | Institución                                     |
+| -------------------------- | -------------- | ----------------------------------------------- |
+| Paola Jaqueline López Mata | Desarrolladora | Universidad Tecnológica del Norte de Guanajuato |
+| Integrante 2               | Colaborador    | Pendiente                                       |
+| Integrante 3               | Colaborador    | Pendiente                                       |
+
+### Responsabilidades del Equipo
+
+* Desarrollo y mantenimiento de la aplicación web.
+* Actualización de la documentación técnica.
+* Implementación de nuevas funcionalidades.
+* Corrección de errores y optimización del código.
+* Realización de pruebas y validación del sistema.
