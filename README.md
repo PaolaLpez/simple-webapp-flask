@@ -179,3 +179,40 @@ RF-10 El sistema deberá proporcionar una estructura modular que facilite la inc
 * Implementación de nuevas funcionalidades.
 * Corrección de errores y optimización del código.
 * Realización de pruebas y validación del sistema.
+
+# Evidencia 1
+Captura del Fork creado.
+<img width="1098" height="475" alt="image" src="https://github.com/user-attachments/assets/68a39867-f113-410e-9dd2-c74101ba6afb" />
+
+# Evidencia 2
+Resultado de:
+git remote -v
+<img width="905" height="160" alt="image" src="https://github.com/user-attachments/assets/42fdf507-dc5f-4b1b-9235-46a9c34bee13" />
+
+# Evidencia 3
+Resultado de:
+git branch
+<img width="1098" height="577" alt="image" src="https://github.com/user-attachments/assets/20690c8e-c31f-4460-af5d-c5ed2ff557ee" />
+
+# Evidencia 4
+Resultado de:
+git log --oneline
+<img width="1098" height="574" alt="image" src="https://github.com/user-attachments/assets/6da5d6f1-0f23-4dbc-ad2f-439d4d5c78a3" />
+
+# Evidencia 5
+Captura del Pull Request.
+
+<img width="1098" height="470" alt="image" src="https://github.com/user-attachments/assets/70d84c48-1fb6-41f3-8a65-4806d4416f46" />
+
+# Evidencia 6
+URL del Pull Request
+https://github.com/PaolaLpez/simple-webapp-flask/pull/2 
+
+# Reto adicional 🏅
+<img width="1098" height="578" alt="image" src="https://github.com/user-attachments/assets/469181e2-a917-4360-b1c7-d0f55d35ebe6" />
+
+<img width="1098" height="476" alt="image" src="https://github.com/user-attachments/assets/d6b3340b-a090-4577-97bc-37d35eddf6ac" />
+
+
+
+
